@@ -9,6 +9,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Project Sundial/[Ll]ibrary/
+/Project Sundial/[Tt]emp/
+/Project Sundial/[Oo]bj/
+/Project Sundial/[Bb]uild/
+/Project Sundial/[Bb]uilds/
+/Project Sundial/[Ll]ogs/
+/Project Sundial/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
